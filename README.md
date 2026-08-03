@@ -1,39 +1,33 @@
-# qa-portfolio
-Junior QA Engineer Portfolio | Manual Testing | API Testing | SQL | Postman
+#Junior QA Engineer Portfolio 
+Junior QA Engineer Portfolio | Manual Testing | API Testing | SQL | Postman | Git & GitHub
 # 👋 Вітаю!
+ Мене звати Ніна Давришева. Я Junior QA Engineer. Вивчаю Manual Testing та API Testing, працюю з Postman, Git/GitHub і поступово освоюю SQL.Люблю уважно аналізувати роботу вебзастосунків, знаходити дефекти та документувати результати тестування. 
 
-Мене звати Ніна Давришева.
-
-Я Junior QA Engineer, який вивчає ручне тестування та API Testing.
-
-## 🛠️ Навички
+## 🛠️  Technical Skills
 
 - Manual Testing
 - API Testing (Postman)
 - Test Cases
 - Checklists
 - Bug Reports
-- SQL (у процесі)
+- SQL (Basic)
 - Git & GitHub
 
-## 📂 Проєкти
+## 📂 Projects
 
 ### API Testing
-- GET
-- POST
-- PUT
-- PATCH
-- DELETE
+- GET Users
+- POST Create Post
+- PUT Update Post
+- PATCH Update Title
+- DELETE Remove Post
 
 ### Manual Testing
 - Test Cases
 - Checklists
 - Bug Reports
 
-## 📫 Контакти
+## 📫 Contacts
+- LinkedIn: [Nina Davrysheva](https://www.linkedin.com/in/nina-davrysheva-qa)
+- Email: <davrysheva.ga@outlook.com>  
 
-LinkedIn:
-(сюди ми пізніше додамо ваше посилання)
-
-Email:
-(сюди додамо вашу робочу пошту)
