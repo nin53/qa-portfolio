@@ -13,9 +13,10 @@ Junior QA Engineer Portfolio | Manual Testing | API Testing | SQL | Postman | Gi
 - SQL (Basic)
 - Git & GitHub
 
-## 📂 Projects
+## 📁 Projects
 
-### API Testing
+### REST API Testing
+
 - GET Users
 - POST Create Post
 - PUT Update Post
