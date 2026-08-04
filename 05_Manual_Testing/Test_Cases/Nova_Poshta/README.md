@@ -4,4 +4,6 @@
 
 ## Документи
 
-- Test Cases
+## 📄 Документ
+
+👉 [Тестові кейси (Google Sheets)](https://docs.google.com/spreadsheets/d/1UFmxdc6h-zGWJucVd7F3B80l7axkuDdtQkgVvIsKf_o/edit?usp=sharing)
