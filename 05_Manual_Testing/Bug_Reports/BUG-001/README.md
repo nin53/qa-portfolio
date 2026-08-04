@@ -59,7 +59,7 @@ The password is successfully changed and a confirmation message is displayed.
 ---
 
 ## Attachment
+## Screenshot
 
-**Screenshot**
+![BUG-001](BUG-001.png)
 
-`screenshot.png`
