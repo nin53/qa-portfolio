@@ -58,7 +58,11 @@ The entered data should remain in the form so the user can correct the invalid f
 ---
 
 ## Attachment
+### Screenshot 1
 
-**Screenshot**
+![Screenshot 1](BUG-004a.png)
 
-![Screenshot](BUG-004.png)
+### Screenshot 2
+
+![Screenshot 2](BUG-004b.png)
+
